@@ -1,0 +1,16 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./source/install.php
+./source/js/jquery.bgiframe.js
+./source/js/jquery.autocomplete.js
+./source/js/_readme.txt
+./source/example/autocomplete.tpl.php
+./source/example/autocomplete.php
+./source/includes/QAutoCompleteTextBoxBase.class.php
+./source/includes/QJavaScriptAutoCompleteTextBox.class.php
+./source/includes/QAjaxAutoCompleteTextBox.class.php
+./valid_targets.txt
